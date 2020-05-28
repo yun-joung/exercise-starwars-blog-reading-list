@@ -8,9 +8,7 @@ We are going to be building a minimalist version of the [Star Wars Databank](htt
 
 ### Here is the demo!
 
-<p align="center">
-   <img src="https://projects.breatheco.de/json?slug=startwars-blog-reading-list&preview" />
-</p>
+![Starwars Demo](https://github.com/breatheco-de/exercise-starwars-blog-reading-list/blob/master/preview.gif?raw=true)
 
 #### Building the grid of Characters and Planets
 
