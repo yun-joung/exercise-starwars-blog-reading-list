@@ -2,17 +2,16 @@
 
 _The force is strong with this exercise..._
 
-## Objective
-
 We are going to be building a minimalist version of the [Star Wars Databank](https://www.starwars.com/databank) with a React Later or Favorites list functionality.
-
-### Here is the demo!
 
 ![Starwars Demo](https://github.com/breatheco-de/exercise-starwars-blog-reading-list/blob/master/preview.gif?raw=true)
 
 ## Instructions
 
 1. Start a new project using the Flux boilerplate.
+2. Use bootstrap components, you need almost no custom CSS.
+3. Fetch the SWAPI people and planets and display them on your application.
+4. Declare a `favorites` array in your central store and allow the user to add or remove favorites.
 
 #### Building the grid of Characters and Planets
 
