@@ -10,6 +10,10 @@ We are going to be building a minimalist version of the [Star Wars Databank](htt
 
 ![Starwars Demo](https://github.com/breatheco-de/exercise-starwars-blog-reading-list/blob/master/preview.gif?raw=true)
 
+## Instructions
+
+1. Start a new project using the Flux boilerplate.
+
 #### Building the grid of Characters and Planets
 
 - Create a React webapp that lists the _peope_, _vehicles_ and _planets_ **entities** provided by the [SWAPI](https://swapi.co/documentation).
