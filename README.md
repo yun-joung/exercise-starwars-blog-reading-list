@@ -16,7 +16,7 @@ We are going to be building a minimalist version of the [Star Wars Databank](htt
 
 #### Building the grid of Characters and Planets
 
-- Create a React webapp that lists the _peope_, _vehicles_ and _planets_ **entities** provided by the [SWAPI](https://swapi.co/documentation).
+- Create a React webapp that lists the _peope_, _vehicles_ and _planets_ **entities** provided by the [SWAPI](https://swapi.dev/documentation).
 
 <p align="center">
    <img height="100" src="https://raw.githubusercontent.com/nachovz/projects/master/p/javascript/semi-senior/startwars-blog-reading-list/sw_data.png" />
