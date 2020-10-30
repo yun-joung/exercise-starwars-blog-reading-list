@@ -8,9 +8,16 @@ Vamos a construir una versión minimalista del [Banco de datos de Star Wars](htt
 
 ### Aquí esta un Demo!
 
-<p align="center">
-   <img src="https://projects.breatheco.de/json?slug=startwars-blog-reading-list&preview" />
-</p>
+![Starwars Demo](https://github.com/breatheco-de/exercise-starwars-blog-reading-list/blob/master/preview.gif?raw=true)
+
+## 📝 Instrucciones
+
+1. Empieza un nuevo projecto utilizando el template de [4Geeks Academy React Advanced](https://github.com/4GeeksAcademy/react-hello-webapp).
+2. Utiliza los componentes de bootstrap (Card, Buttons, etc.), prácticamente no necesitarás casi CSS propio.
+3. Tomate un tiempo para entender SWAPI.dev, esta sera el API que vamos a utilizar para obtener la información.
+4. Utiliza la función Fetch para consumir SWAPI.dev y obtener los Personajes (people) y Planetas y mostrarlos en tu web.
+5. Deberás tener un store centralizado con tu información (planetas, personajes).
+6. Para resolver la funcionalidad de "favoritos" te recomendamos declarar un arreglo `favorites` en el store y tener alli la lista de todos los planetas o personajes que se van marcando como favoritos.
 
 #### Construyendo la red de personajes y planetas.
 
