@@ -8,10 +8,11 @@ We are going to be building a minimalist version of the [Star Wars Databank](htt
 
 ## Instructions
 
-1. Start a new project using the Flux boilerplate.
-2. Use bootstrap components, you need almost no custom CSS.
-3. Fetch the SWAPI people and planets and display them on your application.
-4. Declare a `favorites` array in your central store and allow the user to add or remove favorites.
+1. Start a new project using [4Geeks Academy's React Advanced boilerplate](https://github.com/4GeeksAcademy/react-hello-webapp).
+2. Use bootstrap components, you need **almost** no custom CSS.
+3. Take some time to understand the SWAPI.dev API, this will be our source of information, we will be consuming this API.
+4. Fetch the SWAPI people and planets and display them on your application.
+5. Declare a `favorites` array in your central store and allow the user to add or remove favorites.
 
 #### Building the grid of Characters and Planets
 
