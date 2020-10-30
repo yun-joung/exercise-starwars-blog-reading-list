@@ -6,7 +6,7 @@ We are going to be building a minimalist version of the [Star Wars Databank](htt
 
 ![Starwars Demo](https://github.com/breatheco-de/exercise-starwars-blog-reading-list/blob/master/preview.gif?raw=true)
 
-## Instructions
+## 📝 Instructions
 
 1. Start a new project using [4Geeks Academy's React Advanced boilerplate](https://github.com/4GeeksAcademy/react-hello-webapp).
 2. Use bootstrap components, you need **almost** no custom CSS.
