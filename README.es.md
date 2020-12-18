@@ -21,7 +21,9 @@ Vamos a construir una versión minimalista del [Banco de datos de Star Wars](htt
 
 #### Construyendo la red de personajes y planetas.
 
-- Crear una aplicación web React que enumera _personas_, _vehiculos_ and _planetas_ **entidades** proporcionado por el [SWAPI](https://swapi.co/documentation).
+- Crear una aplicación web React que enumera _personas_, _vehiculos_ and _planetas_ **entidades** proporcionado por el [SWAPI](https://swapi.tech/documentation).
+
+Nota: por favor utiliza swapi.tech y no swapi.dev porque la segunda esta dando problemas útimamente.
 
 <p align="center">
    <img height="100" src="https://raw.githubusercontent.com/nachovz/projects/master/p/javascript/semi-senior/startwars-blog-reading-list/sw_data.png" />
