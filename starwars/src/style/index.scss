@@ -1,0 +1,64 @@
+.App {
+    text-align: center;
+  }
+  body::after {
+    content: "";
+    background: url(http://localhost:3000/starts.jpeg);
+    opacity: 0.6;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    height: 280%;
+    position: absolute;
+    z-index: -1;   
+  }
+  body{
+    background:rgb(77, 76, 76);
+  }
+  .scroll {
+    display: flex;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    .card {
+      flex: 0 0 auto;
+    }
+  }
+
+  ::-webkit-scrollbar {
+    width: 20px;
+  }
+  
+  ::-webkit-scrollbar-track {
+    border-radius: 10px;
+  }
+   
+  ::-webkit-scrollbar-thumb {
+    background: rgb(138, 113, 4); 
+    border-radius: 10px;
+  }
+  
+  ::-webkit-scrollbar-thumb:hover {
+    background: rgb(54, 45, 2); 
+  }
+  
+  .solid {
+    border-top: 3px solid rgb(54, 45, 2);
+  }
+
+  .footer {
+    height: 100px;
+    margin-top: 200px;
+}
+$primary:rgb(252, 252, 252);
+$dark:black;
+
+.primary{
+  color:$primary;
+  border-color:$primary;
+}
+.primary:hover{
+  background:$primary;
+  border-color:$primary;
+  color:black;
+}
